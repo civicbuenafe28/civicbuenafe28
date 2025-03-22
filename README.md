@@ -20,4 +20,4 @@
 
 ## 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![civicbuenafe28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=civicbuenafe28&show_icons=true&theme=radical)
