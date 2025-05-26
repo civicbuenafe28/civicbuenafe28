@@ -30,6 +30,6 @@
 ## 📊 GitHub Stats:
 
 ![civicbuenafe28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=civicbuenafe28&show_icons=true&theme=radical) 
-<img src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" width="300" height="200"/>
+<img align="right" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" width="300" height="200"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civicbuenafe28&layout=donut&theme=tokyonight)
 
