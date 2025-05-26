@@ -24,7 +24,7 @@
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/carlvictor328/) 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/civicbuenafe28/) 
 [![X (formerly Twitter)](https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/civicbuenafe28)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](civic0328)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/719543284019494976)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlvictor328@gmail.com)
 
 ## 📊 GitHub Stats:
