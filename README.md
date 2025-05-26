@@ -2,7 +2,7 @@
 
 **Hi There! I'm Carl Victor A. Buenafe**
 
-**2nd Year BS Computer Science Student | Major in Software Engineering**  
+**3rd Year BS Computer Science Student | Major in Software Engineering**  
 
 - 👩🏻‍💻 Aspiring Software Engineer | Passionate about Learning
 
