@@ -32,6 +32,6 @@
 
 ## 📊 GitHub Stats:
 
-![civicbuenafe28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=civicbuenafe28&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civicbuenafe28&layout=donut&theme=tokyonight)
+![civicbuenafe28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=civicbuenafe28&show_icons=true&theme=radical&height=200)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civicbuenafe28&layout=donut&theme=tokyonight&height=220)
 
