@@ -2,7 +2,10 @@
 
 **Hi There! I'm Carl Victor A. Buenafe**
 
+<img align="right" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" width="300" height="200"/>
+
 **3rd Year BS Computer Science Student | Major in Software Engineering**  
+
 
 - 👩🏻‍💻 Aspiring Software Engineer | Passionate about Learning
 
@@ -30,6 +33,5 @@
 ## 📊 GitHub Stats:
 
 ![civicbuenafe28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=civicbuenafe28&show_icons=true&theme=radical) 
-<img align="right" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" width="300" height="200"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civicbuenafe28&layout=donut&theme=tokyonight)
 
