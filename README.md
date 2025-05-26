@@ -1,15 +1,15 @@
 # Welcome to my GitHub Profile👋 
 
-**Hi There! I'm Carl Victor A. Buenafe**
-
 <img align="right" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" width="300" height="200"/>
+
+**Hi There! I'm Carl Victor A. Buenafe**
 
 **3rd Year BS Computer Science Student | Major in Software Engineering**  
 
 
 - 👩🏻‍💻 Aspiring Software Engineer | Passionate about Learning
 
-- 👩🏻‍🎓 Currently studies Computer Science at Manuel S. Enverga University Foundation, Lucena City, Philippines
+- 👩🏻‍🎓 Studying Computer Science at Manuel S. Enverga University Foundation, Lucena City, Philippines
 
 - 💭 Currently diving deep into computer software programming and web development! 
 
