@@ -36,5 +36,6 @@
 ## 📊 GitHub Stats:
 
 ![civicbuenafe28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=civicbuenafe28&show_icons=true&theme=radical&height=200)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civicbuenafe28&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civicbuenafe28&layout=compact&langs_count=6&theme=tokyonight)
+
 
