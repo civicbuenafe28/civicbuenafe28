@@ -36,6 +36,6 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=civicbuenafe28&show_icons=true&theme=dark&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&bg_color=282a36&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=civicbuenafe28&layout=compact&langs_count=4&theme=dark&title_color=e6b86c&text_color=ffffff&bg_color=282a36&hide_border=true&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=civicbuenafe28&show_icons=true&theme=dark&title_color=FF69B4&text_color=F0F8FF&icon_color=FFD700&bg_color=1E1E2F&border_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=civicbuenafe28&layout=compact&langs_count=4&theme=dark&title_color=FF69B4&text_color=F0F8FF&bg_color=1E1E2F&border_color=FFFFFF&custom_title=Most%20Used%20Languages&card_width=350" alt="Most Used Languages" />
 </div>
