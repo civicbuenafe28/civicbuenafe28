@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats:
 
-![civicbuenafe28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=civicbuenafe28&show_icons=true&theme=radical&height=200)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civicbuenafe28&layout=compact&langs_count=6&theme=tokyonight)
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=civicbuenafe28&show_icons=true&theme=dark&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&bg_color=282a36&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=civicbuenafe28&layout=compact&langs_count=4&theme=dark&title_color=e6b86c&text_color=ffffff&bg_color=282a36&hide_border=true&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+</div>
