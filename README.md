@@ -1,8 +1,8 @@
 # Hi There! I'm Carl Victor A. Buenafe 👋
 
-- 👩🏻‍💻 Aspiring Software Engineer | Passionate about Learning
-- 🎓 3rd Year BS Computer Science Student at *Manuel S. Enverga University Foundation, Lucena City*.
-- 💭 Currently diving deep into computer software programming and web development!
+- 👩🏻‍💻 Aspiring into Mobile App Development 
+- 🎓 4th Year BS Computer Science Student at *Manuel S. Enverga University Foundation, Lucena City*.
+- 💭 Currently diving deep into computer software programming and mobile and web app development!
 
   <p align="center">
   <img width="200%" height="280px" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif"/>
