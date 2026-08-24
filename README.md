@@ -1,6 +1,6 @@
 # Hi There! I'm Carl Victor A. Buenafe 👋
 
-- 👩🏻‍💻 Aspiring into Mobile App Development 
+- 👩🏻‍💻 Aspiring into Website and Mobile App Development 
 - 🎓 4th Year BS Computer Science Student at *Manuel S. Enverga University Foundation, Lucena City*.
 - 💭 Currently diving deep into computer software programming and mobile and web app development!
 
