@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.carlvictorbuenafe.com">
+  <a href="https://carlvictorbuenafe.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Frontend+Development;Quality+Assurance+(QA)+Testing;Web+%26+Mobile+App+Development;UI%2FUX+Design+in+Figma" alt="Frontend Development, QA Testing, Web & Mobile App Development, UI/UX Design"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.carlvictorbuenafe.com"><img src="https://img.shields.io/badge/Portfolio-carlvictorbuenafe.com-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://carlvictorbuenafe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-carlvictorbuenafe.vercel.app-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/carl-victor-buenafe-3b9b0a2b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:carlvictor328@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -34,9 +34,10 @@
 
 ## 🚀 Featured Projects
 
+<div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🩸 ResQ</h3>
       <p><em>Thesis Project · Business Analyst &amp; QA Tester · 2026</em></p>
       <p>A centralized blood donation management system with a <b>Flutter</b> donor mobile app and a <b>React.js</b> hospital dashboard. Uses <b>Decision Tree Classification</b> for donor eligibility screening and <b>Min-Heap Priority Scheduling</b> for emergency blood requests.</p>
@@ -45,7 +46,7 @@
         <a href="https://github.com/lunaella/hospital-web-dashboard"><img src="https://img.shields.io/badge/Dashboard_Repo-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="ResQ dashboard repo"/></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🚗 Drive Now</h3>
       <p><em>Mobile App Project · 2025</em></p>
       <p>A car rental app with a native <b>iOS</b> version in <b>SwiftUI</b> and an <b>Android</b> version in <b>Flutter</b>, sharing one <b>Firebase</b> backend. Browse cars, save favorites, book with a pickup location on a map, pay, and track rentals.</p>
@@ -55,18 +56,19 @@
     </td>
   </tr>
 </table>
+</div>
 
 <p align="center">
-  <a href="https://www.carlvictorbuenafe.vercel.app"><b>See more on my portfolio →</b></a>
+  <a href="https://carlvictorbuenafe.vercel.app/"><b>See more on my portfolio →</b></a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<h3 align="center">Languages</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
@@ -76,18 +78,18 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </p>
 
-**Frameworks & Databases**
+<h3 align="center">Frameworks & Databases</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
-**Tools**
+<h3 align="center">Tools</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
@@ -100,13 +102,40 @@
 
 ## 🏆 Certifications & Achievements
 
-| Date | Certification / Competition | Issuer |
-| :--- | :--- | :--- |
-| Ongoing | DAP NextGenPH 2026 (Participant / Competitor) | DAP |
-| Jul 2026 | Microsoft Azure Fundamentals (AZ-900) | Microsoft · Coursera |
-| Jun 2026 | Software Testing, Deployment, and Maintenance Strategies | IBM · Coursera |
-| May 2025 | MSEUF Startup Pitch Competition — **Top 10 Finalist** | MSEUF |
-| Apr 2025 | Flutter and Dart: Developing iOS, Android, and Mobile Apps | IBM · Coursera |
+<div align="center">
+<table>
+  <tr>
+    <th align="center">Date</th>
+    <th align="center">Certification / Competition</th>
+    <th align="center">Issuer</th>
+  </tr>
+  <tr>
+    <td align="center">Ongoing</td>
+    <td align="center">DAP NextGenPH 2026 (Participant / Competitor)</td>
+    <td align="center">DAP</td>
+  </tr>
+  <tr>
+    <td align="center">Jul 2026</td>
+    <td align="center">Microsoft Azure Fundamentals (AZ-900)</td>
+    <td align="center">Microsoft · Coursera</td>
+  </tr>
+  <tr>
+    <td align="center">Jun 2026</td>
+    <td align="center">Software Testing, Deployment, and Maintenance Strategies</td>
+    <td align="center">IBM · Coursera</td>
+  </tr>
+  <tr>
+    <td align="center">May 2025</td>
+    <td align="center">MSEUF Startup Pitch Competition — <b>Top 10 Finalist</b></td>
+    <td align="center">MSEUF</td>
+  </tr>
+  <tr>
+    <td align="center">Apr 2025</td>
+    <td align="center">Flutter and Dart: Developing iOS, Android, and Mobile Apps</td>
+    <td align="center">IBM · Coursera</td>
+  </tr>
+</table>
+</div>
 
 ---
 
