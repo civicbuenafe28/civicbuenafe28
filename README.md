@@ -57,7 +57,7 @@
 </table>
 
 <p align="center">
-  <a href="https://www.carlvictorbuenafe.com"><b>See more on my portfolio →</b></a>
+  <a href="https://www.carlvictorbuenafe.vercel.app"><b>See more on my portfolio →</b></a>
 </p>
 
 ---
