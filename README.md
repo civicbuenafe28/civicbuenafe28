@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://carlvictorbuenafe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-carlvictorbuenafe.vercel.app-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.carlvictorbuenafe.dev/"><img src="https://img.shields.io/badge/Portfolio-carlvictorbuenafe.dev-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/carl-victor-buenafe-3b9b0a2b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:carlvictor328@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
