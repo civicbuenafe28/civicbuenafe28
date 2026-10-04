@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://carlvictorbuenafe.vercel.app/">
+  <a href="https://www.carlvictorbuenafe.dev/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Frontend+Development;Quality+Assurance+(QA)+Testing;Web+%26+Mobile+App+Development;UI%2FUX+Design+in+Figma" alt="Frontend Development, QA Testing, Web & Mobile App Development, UI/UX Design"/>
   </a>
 </p>
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="https://carlvictorbuenafe.vercel.app/"><b>See more on my portfolio →</b></a>
+  <a href="https://www.carlvictorbuenafe.dev/"><b>See more on my portfolio →</b></a>
 </p>
 
 ---
